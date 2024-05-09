@@ -36,7 +36,7 @@
     "pixi.js": "^7.3.3",
     "rxjs": "~7.5.0",
     "tslib": "^2.4.0",
-    "vercel": "^32.3.0",
+    "vercel": "^32.7.2",
     "zone.js": "~0.14.4"
   },
   "devDependencies": {
